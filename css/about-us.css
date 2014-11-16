@@ -36,14 +36,17 @@ body{
 .members-column{
 	width: 33.3%;
 	float: left;
-	margin: auto;
-	border-top: 20px;
+	padding-top: 30px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 .members-column p{
 	font-family: "Segoe UI";
 	font-size: 10pt;
 	text-align: left;
+	margin-top: 30px;
 }
 
 .members-column-all h2{
@@ -55,15 +58,14 @@ body{
 .members-column-all p{
 	font-family: "Segoe UI";
 	font-size: 11pt;
+	margin-top: 10px;
+	margin-bottom: 0px;
 }
 
 .members-column-all ul{
 	font-family: "Segoe UI";
 	font-size: 11pt;
-    margin-left: 0px;
-    margin-right: 0px;
-    padding-left: 0px;
-    padding-right: 0px;
+	margin-bottom: 0px;
 }
 
 .members-column-image img{
